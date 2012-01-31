@@ -2320,7 +2320,7 @@ msgid ""
 msgstr ""
 "<em Class=\"highlight3\">Lär dig</em> vad som helst <br> med dina <em class ="
 "\" Highlight2\">vänner</em>.<br><span class=\"sub\">På <em class =\" "
-"Highlight2\">Internet</em> och är helt <em class=\"highlight3\">gratis</em> "
+"Highlight2\">Internet</em> och helt <em class=\"highlight3\">gratis</em> "
 "</span>."
 
 #: templates/dashboard/splash.html:24
